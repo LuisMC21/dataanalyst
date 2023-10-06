@@ -54,7 +54,7 @@ En este rol, las actividades que realicé fueron:
     <li>Ocurren más accidentes entre las 5:00 - 7:00 horas</li>
     <img src="src/hist_horas.png" width="500px">
     <li>El mes con más accidentes es Diciembre, esto puede estar relacionado con las celebraciones de las fiestas de este mes</li>
-    <img src="src/bar_mes.png" width="350px">
+    <img src="src/bar_mes.png" width="500px">
     <li>Para los 3 tipos de vías las 2 principales víctimas suelen ser las motos y los peatones</li>
     <img src="src/heatmap.png" width="600px">
 </ul>
