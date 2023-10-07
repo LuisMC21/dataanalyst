@@ -45,6 +45,10 @@ En este rol, las actividades que realicé fueron:
     <br>
     <li><b>Cantidad de accidentes en la que las víctimas fueron los peatones:</b> El objetivo es evaluar si se ha reducido o no en un 10% la cantidad de accidentes mortales de peatones en el último año, en CABA, respecto al año anterior</li>
 </ul>
+<img src="src/kpis.png" width=500px">
+<p>Se puede observar que en el último año los accidentes con víctimas motociclistas aumentaron a 45 respecto al año anterior que fueron 26 víctimas (el objetivo era 24) por lo que no se cumplió con la meta propuesta</p>
+<p>Se puede observar que en el último año los accidentes con víctimas peatones se mantuvo en 33 respecto al año anterior (el objetivo era 30) por lo que no se cumplió con la meta propuesta</p>
+<p>Por otro lado la tasa semestral de accidentes del último año si logró dismunir respecto al semestre anterior logrando cumplir con el objetivo que estaba en 1.56</p>
 <h2>Hallazgos</h2>
 <ul>
     <li>Se observa una disminución  considerable de accidenres respecto a los años anteriores, esto se relaciona con el inicio de la pandemia COVID 19 y las medidas tomadas por el gobierno</li>
