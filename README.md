@@ -11,6 +11,7 @@
     <li><b>EDA.ipnyb:</b> Incluye el EDA realizado al dataset.</li>
     <li><b>homicidios.csv:</b> Dataset resultante de aplicar algunas transformaciones, es el que se usa para la creación del dashboard</li>
     <li><b>NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf:</b> Archivo pdf con información sobre el dataset</li>
+    <li>Dashboard: Carpeta con imágenes del dashboard elaborado</li>
 </ul>
 <h2>Contexto</h2>
 <p>
@@ -26,7 +27,7 @@ En este rol, las actividades que realicé fueron:
 <ul>
     <li>EDA (Análisis Exploratorio De Los Datos), comprendiendo la estructura y complejidad de los mismos</li>
     <li>Preparar y limpiar los datos.</li>
-    <li>Elaboración del Dashboard./li>
+    <li>Elaboración del Dashboard.</li>
 </ul>
 <h2>Tecnologías usadas</h2>
 <ul>
